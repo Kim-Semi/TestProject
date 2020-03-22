@@ -1,0 +1,16 @@
+.mainHeader1{
+	background-color:#474D57;
+	height:0px;
+}
+.mainHeader2{
+	background-color:#446E9B;
+	color:white;
+	height:90px;
+	padding-top: 5%;
+	padding-left: 100px;
+	font-size:25px
+}
+.mainBody{
+	padding-top: 50px;
+	padding: 50px;
+}
